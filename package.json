@@ -1,0 +1,19 @@
+{
+  "name": "images-c",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chen8945/hexo-plugin.git"
+  },
+  "author": "chen8945",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chen8945/hexo-plugin/issues"
+  },
+  "homepage": "https://github.com/chen8945/hexo-plugin#readme"
+}
