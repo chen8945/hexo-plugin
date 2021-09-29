@@ -112,7 +112,7 @@
         { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/zhheo/Sticker-Heo@main/Sticker-100/熊猫失望.png\">", "text": "heo-熊猫失望" }
     ]
   },
-    "<img src=\"😂\" style=\"width: 30px;top: 4px;position: relative;\" title=\"Heo\">": {
+    "<\"😂\" style=\"width: 30px;top: 4px;position: relative;\" title=\"Heo\">": {
       "type": "emoji",
       "container": [
         { "icon": "😂", "text": "" },
